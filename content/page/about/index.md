@@ -7,7 +7,7 @@ menu:
     weight: 5
     params:
       icon: user
-comments: false
+comments: true
 ---
 
 -  🎈 A student, an ACMer (before)
