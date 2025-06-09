@@ -128,11 +128,11 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
+repo = "Irumyuui/irumyuui.github.io"
+repoID = "R_kgDOO4GVUQ"
+category = "Announcements"
+categoryID = "DIC_kwDOO4GVUc4CrMiZ"
+mapping = "pathname"
 lightTheme = ""
 darkTheme = ""
 reactionsEnabled = 1
