@@ -1,7 +1,7 @@
 ---
 title: Blogs
-description: Blogs
-image:
+description: My blogs.
+image: cover.jpg
 
 # Badge style
 style:

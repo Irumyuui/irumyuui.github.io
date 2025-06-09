@@ -22,3 +22,28 @@ url = "https://x.com/_Irumyuui"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/203123587"
+
+[social.params]
+icon = "brand-bilibili"
+
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://t.me/Irumyuui233"
+
+[social.params]
+icon = "brand-telegram"
+
+[[social]]
+identifier = "zhihu"
+name = "Zhihu"
+url = "https://www.zhihu.com/people/lei-xiao-ling-78-23"
+
+[social.params]
+newtab = true
+icon = "brand-zhihu"
