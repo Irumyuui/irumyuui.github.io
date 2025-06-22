@@ -1,15 +1,14 @@
 ---
-title: "Powertoys"
-description: 一些实用工具的零零散散汇总。
-date: 2025-06-21T10:48:16+08:00
-image: cover.png
-math:
-comments: true
-categories:
-  - Tools
-tags:
-  - Tools
+title: "Power Tools"
+date: 2025-06-22
+slug: "powertools"
+menu:
+    main:
+        weight: 6
+        params: 
+            icon: alt
 ---
+
 
 一些实用工具。
 
